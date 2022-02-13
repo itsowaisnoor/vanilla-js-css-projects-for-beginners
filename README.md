@@ -1,4 +1,4 @@
-# Simple Vanilla JS Projects For Beginners
+# Simple Vanilla JS & CSS Projects For Beginners
 
 In the Repo you will find simple project like Loan Calculator, Task List, Book Store with Local Storage, Getting Age and much more...
 
